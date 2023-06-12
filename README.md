@@ -1,16 +1,9 @@
-# flutter_web_deshboard
+# Flutter web deshboard
 
-A new Flutter project.
+Mening birinchi manfatli ilovam.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <img src="[https://user-images.githubusercontent.com/95922380/157986424-7000863f-052a-4d5f-a66b-7a341ae1cf1f.png](https://github.com/AsadbekAbdumajidov/web_deshboard_lending/assets/95922380/69cbcf7f-102f-4d30-96cd-bbc080792fb0)"
+     alt="Onboarding page"
+     style="float: left; margin-right: 10px;" width="200" />
+ </br>
+ </br>
